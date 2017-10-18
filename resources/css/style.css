@@ -1,26 +1,17 @@
 html{
-  font-family: Helvetica, sans-serif;
+  font-family: Verdana, sans-serif;
+  background-color: black;
 }
 h1{
-  background-image: url("images/pattern.jpeg");
-  font-size: 100px;
-  font-weight: bold;
-  color: khaki;
+
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
   text-align: center;
 }
-h2{
-  font-size: 32px;
-  font-weight: bold;
-  color: white;
-}
-.brush{
-  background-color: mediumspringgreen;
-}
-.frames{
-  background-color: lightcoral;
-}
-.paint{
-  background-color: skyblue;
+.download{
+  color: aquamarine;
+  font-size: 16px;
 }
 #price{
   color: blue;
